@@ -1,2 +1,2 @@
-# c-
+# cpp
 Learns C++
